@@ -1,1 +1,9 @@
-print("Hello coding world!")
+AcordeiAntesDas10 = False
+Fome = False
+
+if AcordeiAntesDas10 and fome:
+  print("fazer café da manhã")
+elif AcordeiAntesDas10 and not(fome):
+  print("estudar")
+else:
+  print("fazer almoço")
