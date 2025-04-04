@@ -1,4 +1,4 @@
-name: \n
+name: (\n)
   compact: Icaro Pontes
   full: Icaro Henrique Pontes Costa
 avatar:
