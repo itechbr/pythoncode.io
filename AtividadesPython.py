@@ -2,4 +2,4 @@
 Aluno = "Ícaro"
 Curso = "Engenharia de Software"
 Matria = "Cálculo I"
-print ("Aluno", "Curso", "Materia")
+print (Aluno, Curso, Materia)
