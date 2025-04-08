@@ -1,4 +1,4 @@
-print("name:\n")
+name:
   compact: Icaro Pontes
   full: Icaro Henrique Pontes Costa
 avatar:
